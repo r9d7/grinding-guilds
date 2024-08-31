@@ -1,0 +1,14 @@
+{
+  "name": "grinding-guilds",
+  "keywords": [],
+  "description": "",
+  "version": "0.0.0",
+  "author": "radu.dascalu97@gmail.com",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
